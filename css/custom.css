@@ -1,0 +1,40 @@
+body{
+	font-family: 'Playfair Display', serif;
+	
+
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #E5E4E2;
+	color: #151B54;
+	/*color: #151B54;*/
+}
+
+h1{
+	color: #990000;
+}
+
+h2{
+	color: #990000;
+}
+
+a:link{
+  color: #151B54;
+}
+
+a:visited{
+  color: #151B54;
+}
+
+a:hover{
+  color: red;
+}
+
+
+
+
+
+
+
+#ul_short{
+	line-height: 90%;
+}
