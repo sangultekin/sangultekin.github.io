@@ -29,7 +29,9 @@ a:hover{
   color: red;
 }
 
-
+img {
+  border-radius: 50%;
+}
 
 
 
