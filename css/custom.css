@@ -29,17 +29,6 @@ a:hover{
   color: red;
 }
 
-img {
-	float: left;
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-}
-
-
-
-
-
 #ul_short{
 	line-height: 90%;
 }
